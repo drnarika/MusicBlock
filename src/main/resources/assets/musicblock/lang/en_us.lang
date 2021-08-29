@@ -1,0 +1,10 @@
+itemGroup.music_block=MusicBlock
+
+item.musicblock.halfstonemusicblock.name=Music Block(Stone)
+tile.musicblock.halfstonemusicblock.name=Music Block(Stone)
+
+item.musicblock.halfironmusicblock.name=Music Block(Iron)
+tile.musicblock.halfironmusicblock.name=Music Block(Iron)
+
+item.musicblock.halfgoldmusicblock.name=Music Block(Gold)
+tile.musicblock.halfgoldmusicblock.name=Music Block(Gold)

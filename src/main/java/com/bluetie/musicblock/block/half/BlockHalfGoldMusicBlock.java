@@ -10,12 +10,12 @@ import net.minecraft.item.ItemBlock;
 
 import static com.bluetie.musicblock.block.BlockRegistry.modid;
 
-public class BlockHalfIronMusicBlock {
+public class BlockHalfGoldMusicBlock {
 
-    private static String BlockName = "halfironmusicblock";
+    private static String BlockName = "halfgoldmusicblock";
     private static String TranslationKey =modid + "." + BlockName;
 
-    private static Block DBlock = new Block(Material.IRON, MapColor.IRON)
+    private static Block DBlock = new Block(Material.ROCK, MapColor.GOLD)
             .setRegistryName(modid,BlockName).
                     setTranslationKey(TranslationKey).
                     setCreativeTab(MainMod.MUSIC_BLOCK);

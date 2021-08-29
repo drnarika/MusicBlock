@@ -1,11 +1,7 @@
 {
-  "parent": "block/cube",
+  "parent": "block/cube_top",
   "textures": {
-    "down": "musicblock:blocks/mcb_body",
-    "up": "musicblock:blocks/mcb_up",
-    "north": "musicblock:blocks/mcb_body",
-    "east": "musicblock:blocks/mcb_body",
-    "south": "musicblock:blocks/mcb_body",
-    "west": "musicblock:blocks/mcb_body"
+    "top": "musicblock:blocks/half/iron_mcb_top",
+    "side": "musicblock:blocks/half/iron_mcb_side"
   }
 }

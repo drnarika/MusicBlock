@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_top",
+  "textures": {
+    "top": "musicblock:blocks/half/stone_mcb_top",
+    "side": "musicblock:blocks/half/stone_mcb_side"
+  }
+}

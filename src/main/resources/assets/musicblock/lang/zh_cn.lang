@@ -1,0 +1,10 @@
+itemGroup.music_block=音乐盒子
+
+item.musicblock.halfstonemusicblock.name=音乐块（石）
+tile.musicblock.halfstonemusicblock.name=音乐块（石）
+
+item.musicblock.halfironmusicblock.name=音乐块（铁）
+tile.musicblock.halfironmusicblock.name=音乐块（铁）
+
+item.musicblock.halfgoldmusicblock.name=音乐块（金）
+tile.musicblock.halfgoldmusicblock.name=音乐块（金）

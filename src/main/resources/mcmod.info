@@ -5,7 +5,7 @@
   "description": "Music Your World.",
   "version": "${version}",
   "mcversion": "1.12.2",
-  "url": "http://",
+  "url": "http://github.com/drnarika/MusicBlock",
   "updateUrl": "",
   "authorList": ["BlueTie","Narika"],
   "credits": "",

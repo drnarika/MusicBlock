@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "musicblock:blocks/mcb_body",
+    "up": "musicblock:blocks/mcb_up",
+    "north": "musicblock:blocks/mcb_body",
+    "east": "musicblock:blocks/mcb_body",
+    "south": "musicblock:blocks/mcb_body",
+    "west": "musicblock:blocks/mcb_body"
+  }
+}
